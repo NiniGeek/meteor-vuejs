@@ -1,5 +1,5 @@
 {
-  "name": "meetup",
+  "name": "meetup-demo",
   "private": true,
   "scripts": {
     "start": "meteor run"
@@ -10,5 +10,13 @@
     "vue": "^2.1.10",
     "vue-meteor-tracker": "^1.0.4",
     "vue-router": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.14.1",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1"
   }
 }
